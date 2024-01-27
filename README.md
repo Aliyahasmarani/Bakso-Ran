@@ -1,5 +1,8 @@
 # Bakso-Ran
 
+## USE CASE
+
+![image](https://github.com/Aliyahasmarani/Bakso-Ran/assets/115197672/f33229d2-7794-4482-b682-5a98dfeaa6a0)
 
 ## TAMPILAN HALAMAN LOGIN
 ![Screenshot 2024-01-27 210548](https://github.com/Aliyahasmarani/Bakso-Ran/assets/115197672/ef22e2af-7928-4623-a97c-b4a426bda91d)
